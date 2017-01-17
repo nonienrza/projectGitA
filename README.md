@@ -1,0 +1,2 @@
+# projectGitA
+test project learning
